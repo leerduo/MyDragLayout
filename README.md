@@ -1,10 +1,3 @@
-title: "ViewDragHelper的用法2"
-date: 2015-07-14 12:55:03
-- 移动开发
-- 自定义控件
-- ViewDragHelper
-categories: [移动开发]
----
 **ViewDragHelper**是Google2013年IO大会提出来用于解决界面控件拖拽移动的问题(位于v4兼容包下)，最近在做QQ侧滑菜单那样的效果，用到了ViewDragHelper，做个笔记记录下。这部分是第二部分。[ViewDragHelper的第一部分](http://chenfuduo.me/2015/06/29/ViewDragHelper%E7%9A%84%E7%94%A8%E6%B3%95/)
 ![QQ侧滑菜单](http://1.infotravel.sinaapp.com/pic/40.gif)
 
@@ -12,8 +5,6 @@ categories: [移动开发]
 
 > * [ListView的侧边栏快速索引](http://chenfuduo.me/2015/05/06/quick-index-listview/)
 > * [类似于QQ空间的拖拽视差动画](http://chenfuduo.me/2015/05/13/ParallaxListView/)
-
-<!--more-->
 
 
 
